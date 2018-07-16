@@ -1,0 +1,74 @@
+
+
+    Francia - Argentina
+
+    30/06/2018 ore 16.00
+    vedi statistiche
+    2.45
+    3.00
+    3.30
+    +542
+
+    Uruguay - Portogallo
+
+    30/06/2018 ore 20.00
+    vedi statistiche
+    3.00
+    2.80
+    2.85
+    +536
+
+    Spagna - Russia
+
+    01/07/2018 ore 16.00
+    vedi statistiche
+    1.60
+    3.75
+    6.50
+    +540
+
+    Croazia - Danimarca
+
+    01/07/2018 ore 20.00
+    vedi statistiche
+    1.87
+    3.25
+    5.00
+    +527
+
+    Brasile - Messico
+
+    02/07/2018 ore 16.00
+    vedi statistiche
+    1.52
+    4.00
+    7.50
+    +524
+
+    Belgio - Giappone
+
+    02/07/2018 ore 20.00
+    vedi statistiche
+    1.40
+    4.50
+    9.00
+    +526
+
+    Svezia - Svizzera
+
+    03/07/2018 ore 16.00
+    vedi statistiche
+    3.00
+    2.95
+    2.65
+    +456
+
+    Colombia - Inghilterra
+
+    03/07/2018 ore 20.00
+    vedi statistiche
+    3.90
+    3.20
+    2.10
+    +472
+
